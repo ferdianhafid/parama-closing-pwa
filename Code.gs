@@ -2022,7 +2022,7 @@ function refreshDashboard_(ss) {
   const tiers7 = getMenuTier_(ss, 7);
   const tiers30 = getMenuTier_(ss, 30);
 
-  sheet.getRange("A1:F2").merge().setValue("SANTARA OPERATIONS DASHBOARD");
+  sheet.getRange("A1:F2").merge().setValue("PARAMA OPERATIONS DASHBOARD");
   styleTitle_(sheet.getRange("A1:F2"), "#241c3d");
 
   if (latest) {
