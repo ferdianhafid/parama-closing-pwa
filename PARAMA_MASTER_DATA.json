@@ -1,0 +1,1467 @@
+{
+  "stock": [
+    [
+      "Bahan Kopi",
+      "Espresso",
+      "ml",
+      0,
+      0,
+      "Aktif",
+      "ml",
+      1,
+      "Produk espresso; belum ada proses produksi dari beans di sistem"
+    ],
+    [
+      "Bahan Kopi",
+      "Bubuk Kopi",
+      "gram",
+      0,
+      0,
+      "Aktif",
+      "gram",
+      1,
+      "Beans/bubuk kopi, sesuai alias sistem"
+    ],
+    [
+      "Bubuk",
+      "Creamer Bubuk",
+      "gram",
+      0,
+      0,
+      "Aktif",
+      "gram",
+      1,
+      "Bahan base"
+    ],
+    [
+      "Bahan",
+      "SKM",
+      "ml",
+      0,
+      0,
+      "Aktif",
+      "ml",
+      1,
+      "Bahan minuman/base"
+    ],
+    [
+      "Bubuk",
+      "Brown Sugar",
+      "gram",
+      0,
+      0,
+      "Aktif",
+      "gram",
+      1,
+      "Bahan Base Coffee dan Palm Sugar"
+    ],
+    [
+      "Bubuk",
+      "Gula Pasir",
+      "gram",
+      0,
+      0,
+      "Aktif",
+      "gram",
+      1,
+      "Bahan SimSi"
+    ],
+    [
+      "Bahan",
+      "Susu UHT",
+      "ml",
+      0,
+      0,
+      "Aktif",
+      "ml",
+      0,
+      "Satuan beli/isi perlu disesuaikan melalui Admin"
+    ],
+    [
+      "Base",
+      "Base Coffee",
+      "ml",
+      0,
+      0,
+      "Aktif",
+      "ml",
+      1,
+      "Diproduksi internal"
+    ],
+    [
+      "Base",
+      "Base Milk",
+      "ml",
+      0,
+      0,
+      "Aktif",
+      "ml",
+      1,
+      "Diproduksi internal"
+    ],
+    [
+      "Base",
+      "Base Tea",
+      "ml",
+      0,
+      0,
+      "Nonaktif",
+      "ml",
+      1,
+      "Resep produksi belum tersedia"
+    ],
+    [
+      "Base",
+      "SimSi",
+      "ml",
+      0,
+      0,
+      "Aktif",
+      "ml",
+      1,
+      "Diproduksi internal"
+    ],
+    [
+      "Base",
+      "Palm Sugar Syrup",
+      "ml",
+      0,
+      0,
+      "Aktif",
+      "ml",
+      1,
+      "Diproduksi internal"
+    ],
+    [
+      "Syrup",
+      "Cheese Syrup",
+      "ml",
+      0,
+      0,
+      "Aktif",
+      "botol",
+      1,
+      "Isi botol perlu disesuaikan"
+    ],
+    [
+      "Syrup",
+      "Butterscotch Syrup",
+      "ml",
+      0,
+      0,
+      "Aktif",
+      "botol",
+      1,
+      "Isi botol perlu disesuaikan"
+    ],
+    [
+      "Syrup",
+      "Caramel Syrup",
+      "ml",
+      0,
+      0,
+      "Aktif",
+      "botol",
+      1,
+      "Isi botol perlu disesuaikan"
+    ],
+    [
+      "Syrup",
+      "Tiramisu Syrup",
+      "ml",
+      0,
+      0,
+      "Aktif",
+      "botol",
+      1,
+      "Belum dipakai resep Parama; isi botol perlu disesuaikan"
+    ],
+    [
+      "Syrup",
+      "Lemon Syrup",
+      "ml",
+      0,
+      0,
+      "Aktif",
+      "botol",
+      1,
+      "Isi botol perlu disesuaikan"
+    ],
+    [
+      "Syrup",
+      "Lychee Syrup",
+      "ml",
+      0,
+      0,
+      "Aktif",
+      "botol",
+      1,
+      "Isi botol perlu disesuaikan"
+    ],
+    [
+      "Syrup",
+      "Strawberry Syrup",
+      "ml",
+      0,
+      0,
+      "Aktif",
+      "botol",
+      1,
+      "Belum dipakai resep Parama; isi botol perlu disesuaikan"
+    ],
+    [
+      "Syrup",
+      "Pistachio Syrup",
+      "ml",
+      0,
+      0,
+      "Aktif",
+      "botol",
+      1,
+      "Isi botol perlu disesuaikan"
+    ],
+    [
+      "Bahan",
+      "Orange Juice",
+      "ml",
+      0,
+      0,
+      "Nonaktif",
+      "ml",
+      1,
+      "Tidak digunakan pada menu Parama saat ini"
+    ],
+    [
+      "Jam",
+      "Strawberry Jam",
+      "gram",
+      0,
+      0,
+      "Aktif",
+      "gram",
+      1,
+      ""
+    ],
+    [
+      "Jam",
+      "Blueberry Jam",
+      "gram",
+      0,
+      0,
+      "Aktif",
+      "gram",
+      1,
+      ""
+    ],
+    [
+      "Bubuk",
+      "Chocolate Powder",
+      "gram",
+      0,
+      0,
+      "Aktif",
+      "gram",
+      1,
+      ""
+    ],
+    [
+      "Bubuk",
+      "Red Velvet Powder",
+      "gram",
+      0,
+      0,
+      "Aktif",
+      "gram",
+      1,
+      ""
+    ],
+    [
+      "Bubuk",
+      "Matcha Powder",
+      "gram",
+      0,
+      0,
+      "Aktif",
+      "gram",
+      1,
+      ""
+    ],
+    [
+      "Bahan",
+      "Madu",
+      "ml",
+      0,
+      0,
+      "Aktif",
+      "ml",
+      1,
+      "Takaran menu sudah tersedia; satuan beli perlu disesuaikan bila perlu"
+    ],
+    [
+      "Bahan",
+      "Soda",
+      "ml",
+      0,
+      0,
+      "Aktif",
+      "ml",
+      1,
+      "Isi kemasan perlu disesuaikan"
+    ],
+    [
+      "Bahan",
+      "Dry Lemon",
+      "pcs",
+      0,
+      0,
+      "Aktif",
+      "pcs",
+      1,
+      "1 pcs per resep sesuai instruksi"
+    ],
+    [
+      "Bahan",
+      "Lemon Slice",
+      "pcs",
+      0,
+      0,
+      "Aktif",
+      "pcs",
+      1,
+      "1 slice per resep sesuai instruksi"
+    ],
+    [
+      "Bahan",
+      "Lychee Buah",
+      "pcs",
+      0,
+      0,
+      "Aktif",
+      "pcs",
+      1,
+      "1 pcs per resep sesuai instruksi"
+    ],
+    [
+      "Kitchen",
+      "Chicken Katsu",
+      "pcs",
+      0,
+      0,
+      "Aktif",
+      "pcs",
+      1,
+      "1 pcs per porsi sesuai instruksi"
+    ],
+    [
+      "Kitchen",
+      "Chicken Karage",
+      "pcs",
+      0,
+      0,
+      "Aktif",
+      "pcs",
+      1,
+      "Takaran resep belum diberikan"
+    ],
+    [
+      "Kitchen",
+      "Ayam Filet",
+      "pcs",
+      0,
+      0,
+      "Aktif",
+      "pcs",
+      1,
+      "Takaran resep belum diberikan; satuan dapat disesuaikan"
+    ],
+    [
+      "Kitchen",
+      "Kentang",
+      "gram",
+      0,
+      0,
+      "Aktif",
+      "gram",
+      1,
+      ""
+    ],
+    [
+      "Kitchen",
+      "Cireng",
+      "pcs",
+      0,
+      0,
+      "Aktif",
+      "pcs",
+      1,
+      ""
+    ],
+    [
+      "Kitchen",
+      "Nugget",
+      "pcs",
+      0,
+      0,
+      "Aktif",
+      "pcs",
+      1,
+      ""
+    ],
+    [
+      "Kitchen",
+      "Sosis",
+      "pcs",
+      0,
+      0,
+      "Aktif",
+      "pcs",
+      1,
+      "Takaran menu belum diberikan"
+    ],
+    [
+      "Kitchen",
+      "Indomie",
+      "pcs",
+      0,
+      0,
+      "Aktif",
+      "pcs",
+      1,
+      "Takaran menu belum diberikan; satuan dapat disesuaikan"
+    ],
+    [
+      "Kitchen",
+      "Mie",
+      "pcs",
+      0,
+      0,
+      "Aktif",
+      "pcs",
+      1,
+      "Takaran menu belum diberikan; satuan dapat disesuaikan"
+    ],
+    [
+      "Kitchen",
+      "Tortilla Chips",
+      "pcs",
+      0,
+      0,
+      "Aktif",
+      "pcs",
+      1,
+      "TAKARAN BELUM DITENTUKAN — perlu diisi"
+    ],
+    [
+      "Kitchen",
+      "Saus Teriyaki",
+      "ml",
+      0,
+      0,
+      "Aktif",
+      "ml",
+      1,
+      "TAKARAN BELUM DITENTUKAN — perlu diisi"
+    ],
+    [
+      "Kitchen",
+      "Salted Egg",
+      "gram",
+      0,
+      0,
+      "Aktif",
+      "gram",
+      1,
+      "TAKARAN BELUM DITENTUKAN — perlu diisi"
+    ],
+    [
+      "Kitchen",
+      "Churros Frozen",
+      "pcs",
+      0,
+      0,
+      "Aktif",
+      "pcs",
+      1,
+      "Takaran resep belum diberikan"
+    ],
+    [
+      "Kitchen",
+      "Selai Coklat",
+      "gram",
+      0,
+      0,
+      "Aktif",
+      "gram",
+      1,
+      "Takaran resep belum diberikan"
+    ],
+    [
+      "Kitchen",
+      "Donat Frozen",
+      "pcs",
+      0,
+      0,
+      "Aktif",
+      "pcs",
+      1,
+      "Takaran resep belum diberikan"
+    ],
+    [
+      "Kitchen",
+      "Gula Halus",
+      "gram",
+      0,
+      0,
+      "Aktif",
+      "gram",
+      1,
+      "Takaran resep belum diberikan"
+    ],
+    [
+      "Kitchen",
+      "Dancow",
+      "gram",
+      0,
+      0,
+      "Aktif",
+      "gram",
+      1,
+      "Takaran resep belum diberikan"
+    ],
+    [
+      "Kitchen",
+      "Roti Tawar",
+      "pcs",
+      0,
+      0,
+      "Aktif",
+      "pcs",
+      1,
+      "Takaran resep belum diberikan"
+    ],
+    [
+      "Kitchen",
+      "Margarin",
+      "gram",
+      0,
+      0,
+      "Aktif",
+      "gram",
+      1,
+      "Takaran resep belum diberikan"
+    ],
+    [
+      "Kitchen",
+      "Ham",
+      "pcs",
+      0,
+      0,
+      "Nonaktif",
+      "pcs",
+      1,
+      "Tidak dihitung stok sesuai instruksi; dicatat sebagai nonaktif"
+    ],
+    [
+      "Kitchen",
+      "Cheese Slice",
+      "pcs",
+      0,
+      0,
+      "Nonaktif",
+      "pcs",
+      1,
+      "Tidak dihitung stok sesuai instruksi; dicatat sebagai nonaktif"
+    ],
+    [
+      "Kitchen",
+      "Tahu",
+      "pcs",
+      0,
+      0,
+      "Aktif",
+      "pcs",
+      1,
+      "Takaran resep belum diberikan"
+    ],
+    [
+      "Kitchen",
+      "Tahu Walik",
+      "pcs",
+      0,
+      0,
+      "Aktif",
+      "pcs",
+      1,
+      "Takaran resep belum diberikan"
+    ],
+    [
+      "Kitchen",
+      "Tepung Terigu",
+      "gram",
+      0,
+      0,
+      "Aktif",
+      "gram",
+      1,
+      "Takaran resep belum diberikan"
+    ],
+    [
+      "Kitchen",
+      "Cabai",
+      "gram",
+      0,
+      0,
+      "Aktif",
+      "gram",
+      1,
+      "Takaran resep belum diberikan"
+    ],
+    [
+      "Kitchen",
+      "Saus Kecap",
+      "ml",
+      0,
+      0,
+      "Aktif",
+      "ml",
+      1,
+      "Takaran resep belum diberikan"
+    ],
+    [
+      "Kitchen",
+      "Chicken Wings Frozen",
+      "pcs",
+      0,
+      0,
+      "Aktif",
+      "pcs",
+      1,
+      "Takaran resep belum diberikan"
+    ]
+  ],
+  "menus": [
+    [
+      "Spanish Latte",
+      "Kopi & Minuman"
+    ],
+    [
+      "Vietnam Drip",
+      "Kopi & Minuman"
+    ],
+    [
+      "Latte",
+      "Kopi & Minuman"
+    ],
+    [
+      "Americano",
+      "Kopi & Minuman"
+    ],
+    [
+      "Americano Lemon",
+      "Kopi & Minuman"
+    ],
+    [
+      "Berry Americano",
+      "Kopi & Minuman"
+    ],
+    [
+      "Kopi Susu Gula Aren",
+      "Kopi & Minuman"
+    ],
+    [
+      "Kopsu Kotchio",
+      "Kopi & Minuman"
+    ],
+    [
+      "Kopsu Parama",
+      "Kopi & Minuman"
+    ],
+    [
+      "Kopsu Cosco",
+      "Kopi & Minuman"
+    ],
+    [
+      "Choco Strawberry",
+      "Kopi & Minuman"
+    ],
+    [
+      "Coklat",
+      "Kopi & Minuman"
+    ],
+    [
+      "Rough Velvet",
+      "Kopi & Minuman"
+    ],
+    [
+      "Red Velvet",
+      "Kopi & Minuman"
+    ],
+    [
+      "Matcha Boost",
+      "Kopi & Minuman"
+    ],
+    [
+      "Matcha",
+      "Kopi & Minuman"
+    ],
+    [
+      "Strawberry Matcha",
+      "Kopi & Minuman"
+    ],
+    [
+      "Blueberry Matcha",
+      "Kopi & Minuman"
+    ],
+    [
+      "Lemonade Squash",
+      "Kopi & Minuman"
+    ],
+    [
+      "Lemon Tea",
+      "Kopi & Minuman"
+    ],
+    [
+      "Lychee Tea",
+      "Kopi & Minuman"
+    ],
+    [
+      "Pinky Squash",
+      "Kopi & Minuman"
+    ],
+    [
+      "Nasi Katsu Sambal Matah",
+      "Kitchen & Makanan"
+    ],
+    [
+      "Nasi Katsu Teriyaki",
+      "Kitchen & Makanan"
+    ],
+    [
+      "Nasi Ayam Karage Matah",
+      "Kitchen & Makanan"
+    ],
+    [
+      "Nasi Ayam Karage Teriyaki",
+      "Kitchen & Makanan"
+    ],
+    [
+      "Nasi Ayam Karage Salted Egg",
+      "Kitchen & Makanan"
+    ],
+    [
+      "Indomie Katsu Matah",
+      "Kitchen & Makanan"
+    ],
+    [
+      "Indomie Ayam Karage Matah",
+      "Kitchen & Makanan"
+    ],
+    [
+      "Chicken Steak",
+      "Kitchen & Makanan"
+    ],
+    [
+      "Indomie Karbonara",
+      "Kitchen & Makanan"
+    ],
+    [
+      "Indomie Karbonara Katsu",
+      "Kitchen & Makanan"
+    ],
+    [
+      "Mix Platter",
+      "Kitchen & Makanan"
+    ],
+    [
+      "Cireng",
+      "Kitchen & Makanan"
+    ],
+    [
+      "Kentang",
+      "Kitchen & Makanan"
+    ],
+    [
+      "Tahu Cabe Garam",
+      "Kitchen & Makanan"
+    ],
+    [
+      "Tahu Walik",
+      "Kitchen & Makanan"
+    ],
+    [
+      "Spicy Chicken Wings",
+      "Kitchen & Makanan"
+    ],
+    [
+      "Churros",
+      "Kitchen & Makanan"
+    ],
+    [
+      "Donat",
+      "Kitchen & Makanan"
+    ],
+    [
+      "Ham & Cheese",
+      "Kitchen & Makanan"
+    ],
+    [
+      "Croissant",
+      "Cake & Bakery"
+    ],
+    [
+      "Cheesecake",
+      "Cake & Bakery"
+    ]
+  ],
+  "recipes": [
+    [
+      "Spanish Latte",
+      "",
+      "Espresso",
+      20,
+      "ml"
+    ],
+    [
+      "Spanish Latte",
+      "",
+      "SKM",
+      25,
+      "ml"
+    ],
+    [
+      "Vietnam Drip",
+      "",
+      "Bubuk Kopi",
+      18,
+      "gram"
+    ],
+    [
+      "Vietnam Drip",
+      "",
+      "SKM",
+      15,
+      "ml"
+    ],
+    [
+      "Latte",
+      "",
+      "Espresso",
+      20,
+      "ml"
+    ],
+    [
+      "Americano",
+      "",
+      "Espresso",
+      40,
+      "ml"
+    ],
+    [
+      "Americano Lemon",
+      "",
+      "Espresso",
+      40,
+      "ml"
+    ],
+    [
+      "Americano Lemon",
+      "",
+      "Lemon Syrup",
+      20,
+      "ml"
+    ],
+    [
+      "Americano Lemon",
+      "",
+      "SimSi",
+      7,
+      "ml"
+    ],
+    [
+      "Americano Lemon",
+      "",
+      "Dry Lemon",
+      1,
+      "pcs"
+    ],
+    [
+      "Americano Lemon",
+      "",
+      "Lemon Slice",
+      1,
+      "pcs"
+    ],
+    [
+      "Berry Americano",
+      "",
+      "Espresso",
+      40,
+      "ml"
+    ],
+    [
+      "Berry Americano",
+      "",
+      "Blueberry Jam",
+      15,
+      "gram"
+    ],
+    [
+      "Berry Americano",
+      "",
+      "Madu",
+      7,
+      "ml"
+    ],
+    [
+      "Kopi Susu Gula Aren",
+      "",
+      "Base Coffee",
+      140,
+      "ml"
+    ],
+    [
+      "Kopi Susu Gula Aren",
+      "",
+      "Palm Sugar Syrup",
+      10,
+      "ml"
+    ],
+    [
+      "Kopsu Kotchio",
+      "",
+      "Base Coffee",
+      140,
+      "ml"
+    ],
+    [
+      "Kopsu Kotchio",
+      "",
+      "Pistachio Syrup",
+      7,
+      "ml"
+    ],
+    [
+      "Kopsu Parama",
+      "",
+      "Base Coffee",
+      140,
+      "ml"
+    ],
+    [
+      "Kopsu Parama",
+      "",
+      "Cheese Syrup",
+      7,
+      "ml"
+    ],
+    [
+      "Kopsu Cosco",
+      "",
+      "Base Coffee",
+      140,
+      "ml"
+    ],
+    [
+      "Kopsu Cosco",
+      "",
+      "Butterscotch Syrup",
+      7,
+      "ml"
+    ],
+    [
+      "Choco Strawberry",
+      "",
+      "Base Milk",
+      140,
+      "ml"
+    ],
+    [
+      "Choco Strawberry",
+      "",
+      "Chocolate Powder",
+      15,
+      "gram"
+    ],
+    [
+      "Choco Strawberry",
+      "",
+      "Strawberry Jam",
+      20,
+      "gram"
+    ],
+    [
+      "Coklat",
+      "",
+      "Base Milk",
+      140,
+      "ml"
+    ],
+    [
+      "Coklat",
+      "",
+      "Chocolate Powder",
+      15,
+      "gram"
+    ],
+    [
+      "Rough Velvet",
+      "",
+      "Espresso",
+      40,
+      "ml"
+    ],
+    [
+      "Rough Velvet",
+      "",
+      "Base Milk",
+      140,
+      "ml"
+    ],
+    [
+      "Rough Velvet",
+      "",
+      "Red Velvet Powder",
+      15,
+      "gram"
+    ],
+    [
+      "Red Velvet",
+      "",
+      "Base Milk",
+      140,
+      "ml"
+    ],
+    [
+      "Red Velvet",
+      "",
+      "Red Velvet Powder",
+      15,
+      "gram"
+    ],
+    [
+      "Matcha Boost",
+      "",
+      "Espresso",
+      40,
+      "ml"
+    ],
+    [
+      "Matcha Boost",
+      "",
+      "Base Milk",
+      140,
+      "ml"
+    ],
+    [
+      "Matcha Boost",
+      "",
+      "Matcha Powder",
+      20,
+      "gram"
+    ],
+    [
+      "Matcha",
+      "",
+      "Base Milk",
+      140,
+      "ml"
+    ],
+    [
+      "Matcha",
+      "",
+      "Matcha Powder",
+      20,
+      "gram"
+    ],
+    [
+      "Strawberry Matcha",
+      "",
+      "Susu UHT",
+      140,
+      "ml"
+    ],
+    [
+      "Strawberry Matcha",
+      "",
+      "Strawberry Jam",
+      20,
+      "gram"
+    ],
+    [
+      "Blueberry Matcha",
+      "",
+      "Base Milk",
+      140,
+      "ml"
+    ],
+    [
+      "Blueberry Matcha",
+      "",
+      "Matcha Powder",
+      20,
+      "gram"
+    ],
+    [
+      "Blueberry Matcha",
+      "",
+      "Blueberry Jam",
+      20,
+      "gram"
+    ],
+    [
+      "Lemonade Squash",
+      "",
+      "Lemon Syrup",
+      20,
+      "ml"
+    ],
+    [
+      "Lemonade Squash",
+      "",
+      "SimSi",
+      10,
+      "ml"
+    ],
+    [
+      "Lemonade Squash",
+      "",
+      "Soda",
+      150,
+      "ml"
+    ],
+    [
+      "Lemonade Squash",
+      "",
+      "Lemon Slice",
+      1,
+      "pcs"
+    ],
+    [
+      "Lemon Tea",
+      "",
+      "Lemon Syrup",
+      20,
+      "ml"
+    ],
+    [
+      "Lemon Tea",
+      "",
+      "SimSi",
+      10,
+      "ml"
+    ],
+    [
+      "Lemon Tea",
+      "",
+      "Lemon Slice",
+      1,
+      "pcs"
+    ],
+    [
+      "Lychee Tea",
+      "",
+      "Lychee Syrup",
+      20,
+      "ml"
+    ],
+    [
+      "Lychee Tea",
+      "",
+      "SimSi",
+      10,
+      "ml"
+    ],
+    [
+      "Lychee Tea",
+      "",
+      "Lychee Buah",
+      1,
+      "pcs"
+    ],
+    [
+      "Pinky Squash",
+      "",
+      "Lemon Syrup",
+      10,
+      "ml"
+    ],
+    [
+      "Pinky Squash",
+      "",
+      "SimSi",
+      7,
+      "ml"
+    ],
+    [
+      "Pinky Squash",
+      "",
+      "Soda",
+      150,
+      "ml"
+    ],
+    [
+      "Pinky Squash",
+      "",
+      "Lemon Slice",
+      1,
+      "pcs"
+    ],
+    [
+      "Pinky Squash",
+      "",
+      "Strawberry Jam",
+      20,
+      "gram"
+    ],
+    [
+      "Nasi Katsu Sambal Matah",
+      "",
+      "Chicken Katsu",
+      1,
+      "pcs"
+    ],
+    [
+      "Nasi Katsu Teriyaki",
+      "",
+      "Chicken Katsu",
+      1,
+      "pcs"
+    ]
+  ],
+  "baseRecipes": [
+    [
+      "Base Coffee",
+      "Espresso",
+      250,
+      "ml",
+      1540,
+      "v1",
+      "2026-01-01",
+      "",
+      "Aktif",
+      "Ya"
+    ],
+    [
+      "Base Coffee",
+      "Creamer Bubuk",
+      140,
+      "gram",
+      1540,
+      "v1",
+      "2026-01-01",
+      "",
+      "Aktif",
+      "Ya"
+    ],
+    [
+      "Base Coffee",
+      "SKM",
+      100,
+      "ml",
+      1540,
+      "v1",
+      "2026-01-01",
+      "",
+      "Aktif",
+      "Ya"
+    ],
+    [
+      "Base Coffee",
+      "Brown Sugar",
+      50,
+      "gram",
+      1540,
+      "v1",
+      "2026-01-01",
+      "",
+      "Aktif",
+      "Ya"
+    ],
+    [
+      "Base Coffee",
+      "Susu UHT",
+      1000,
+      "ml",
+      1540,
+      "v1",
+      "2026-01-01",
+      "",
+      "Aktif",
+      "Ya"
+    ],
+    [
+      "Base Milk",
+      "Creamer Bubuk",
+      140,
+      "gram",
+      1415,
+      "v1",
+      "2026-01-01",
+      "",
+      "Aktif",
+      "Ya"
+    ],
+    [
+      "Base Milk",
+      "SKM",
+      100,
+      "ml",
+      1415,
+      "v1",
+      "2026-01-01",
+      "",
+      "Aktif",
+      "Ya"
+    ],
+    [
+      "Base Milk",
+      "SimSi",
+      25,
+      "ml",
+      1415,
+      "v1",
+      "2026-01-01",
+      "",
+      "Aktif",
+      "Ya"
+    ],
+    [
+      "Base Milk",
+      "Susu UHT",
+      1000,
+      "ml",
+      1415,
+      "v1",
+      "2026-01-01",
+      "",
+      "Aktif",
+      "Ya"
+    ],
+    [
+      "SimSi",
+      "Gula Pasir",
+      500,
+      "gram",
+      1000,
+      "v1",
+      "2026-01-01",
+      "",
+      "Aktif",
+      "Ya"
+    ],
+    [
+      "Palm Sugar Syrup",
+      "Brown Sugar",
+      500,
+      "gram",
+      1000,
+      "v1",
+      "2026-01-01",
+      "",
+      "Aktif",
+      "Ya"
+    ],
+    [
+      "Base Tea",
+      "",
+      0,
+      "ml",
+      0,
+      "v1",
+      "2026-01-01",
+      "",
+      "Aktif",
+      "Tidak"
+    ]
+  ],
+  "hpp": {
+    "Spanish Latte": 7500,
+    "Vietnam Drip": 6000,
+    "Latte": 5500,
+    "Americano": 4000,
+    "Americano Lemon": 8100,
+    "Berry Americano": 6300,
+    "Kopi Susu Gula Aren": 6500,
+    "Kopsu Kotchio": 7000,
+    "Kopsu Parama": 7000,
+    "Kopsu Cosco": 7000,
+    "Choco Strawberry": 7500,
+    "Coklat": 5000,
+    "Rough Velvet": 8500,
+    "Red Velvet": 5000,
+    "Matcha Boost": 9940,
+    "Matcha": 6000,
+    "Strawberry Matcha": 8440,
+    "Blueberry Matcha": 9500,
+    "Lemonade Squash": 5500,
+    "Lemon Tea": 4000,
+    "Lychee Tea": 6000,
+    "Pinky Squash": 7000,
+    "Nasi Katsu Sambal Matah": 9000,
+    "Nasi Katsu Teriyaki": 8500,
+    "Nasi Ayam Karage Matah": 10000,
+    "Nasi Ayam Karage Teriyaki": 9000,
+    "Nasi Ayam Karage Salted Egg": 10000,
+    "Indomie Katsu Matah": 8000,
+    "Indomie Ayam Karage Matah": 8500,
+    "Chicken Steak": 14000,
+    "Indomie Karbonara": 8000,
+    "Indomie Karbonara Katsu": 12000,
+    "Mix Platter": 13000,
+    "Cireng": 3500,
+    "Kentang": 5000,
+    "Tahu Cabe Garam": 5000,
+    "Tahu Walik": 5000,
+    "Spicy Chicken Wings": 9000,
+    "Churros": 4000,
+    "Donat": 5500,
+    "Ham & Cheese": 8000,
+    "Croissant": 18500,
+    "Cheesecake": 15000
+  },
+  "prices": {
+    "Spanish Latte": 22000,
+    "Vietnam Drip": 20000,
+    "Latte": 20000,
+    "Americano": 18000,
+    "Americano Lemon": 23000,
+    "Berry Americano": 22000,
+    "Kopi Susu Gula Aren": 18000,
+    "Kopsu Kotchio": 20000,
+    "Kopsu Parama": 20000,
+    "Kopsu Cosco": 20000,
+    "Choco Strawberry": 22000,
+    "Coklat": 19000,
+    "Rough Velvet": 23000,
+    "Red Velvet": 19000,
+    "Matcha Boost": 23000,
+    "Matcha": 20000,
+    "Strawberry Matcha": 22000,
+    "Blueberry Matcha": 24000,
+    "Lemonade Squash": 19000,
+    "Lemon Tea": 17000,
+    "Lychee Tea": 19000,
+    "Pinky Squash": 19000,
+    "Nasi Katsu Sambal Matah": 25000,
+    "Nasi Katsu Teriyaki": 23000,
+    "Nasi Ayam Karage Matah": 25000,
+    "Nasi Ayam Karage Teriyaki": 23000,
+    "Nasi Ayam Karage Salted Egg": 23000,
+    "Indomie Katsu Matah": 20000,
+    "Indomie Ayam Karage Matah": 20000,
+    "Chicken Steak": 29000,
+    "Indomie Karbonara": 18000,
+    "Indomie Karbonara Katsu": 24000,
+    "Mix Platter": 28000,
+    "Cireng": 15000,
+    "Kentang": 17000,
+    "Tahu Cabe Garam": 15000,
+    "Tahu Walik": 17000,
+    "Spicy Chicken Wings": 22000,
+    "Churros": 15000,
+    "Donat": 15000,
+    "Ham & Cheese": 19000,
+    "Croissant": 25000,
+    "Cheesecake": 25000
+  }
+}
